@@ -1,3 +1,26 @@
+
+|ANTES DE TUDO|
+
+A aplicação foi desenvolvida com React e Bootstrap.
+Devido a falta de tempo necessário, não consegui concluí o projeto 100%.
+Desenvolvi grande parte do layou, mas as funções não deram pra ser feitas a tempo. 
+Para vizualizar +- como está funcionando, digite um valor no input da placa nesse formato (AAA-4444) 3 letras, traço e 4 numeros.
+Logo depois troque a rota para: http://localhost:3000/registro e verá o primeiro registro de entrada.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+crie um app react pelo terminal(CMD) usando :
+
+npx create-react-app my-app  - PARA CRIAR
+cd my-app - Entra no repositório do app 
+yarn start  -  Cria um servidor local para rodar a aplicação.
+
+
+Depois de criado substitua os arquivos instalados pelos arquivos que estão nesse repositório(Github). Devido a pasta modules ser tão densa, o github
+não aceitou a mesma.
+Depois disso é só atualizar a página(mesmo o próprio react fazendo isso).
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
